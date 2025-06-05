@@ -1,7 +1,7 @@
 // utils/api.js
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000'; // Change this to your backend URL
+const API_URL = 'https://technical-backend-q52x.onrender.com'; // Change this to your backend URL
 
 const api = axios.create({
     baseURL: API_URL,

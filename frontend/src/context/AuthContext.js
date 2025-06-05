@@ -19,7 +19,7 @@ export function AuthProvider({ children }) {
 
     // ✅ The actual login API call
     const login = async (email, password) => {
-        const response = await axios.post('http://localhost:5000/auth/login', {
+        const response = await axios.post('https://technical-backend-q52x.onrender.com/auth/login', {
             email,
             password,
         });
