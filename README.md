@@ -14,7 +14,7 @@ A full-stack application that helps users manage their monthly budgets and track
 ## 📸 Features
 
 ### 🔐 Authentication
-- User sign-up and login
+- User  login
 - JWT-based authentication
 
 ### 💰 Budget Management
@@ -24,7 +24,7 @@ A full-stack application that helps users manage their monthly budgets and track
 ### 📊 Expense Tracking
 - Add, edit, and delete expenses
 - Filter by category, date, or amount
-- Pagination and infinite scrolling for transactions
+- Pagination for transactions
 
 ### 📈 Charts & UI
 - Budget vs. expense pie chart
